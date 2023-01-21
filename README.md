@@ -8,7 +8,7 @@
 My contacts
 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/%D1%80%D0%BE%D0%BC%D0%B0-%D0%B3%D0%B0%D0%BC%D0%B8%D0%BD-978b06225">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
