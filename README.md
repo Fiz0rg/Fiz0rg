@@ -18,7 +18,10 @@ My contacts
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Fiz0rg&style=flat-square&color=blue" align="center">
+<div align="center" >
+  <img src="https://komarev.com/ghpvc/?username=Fiz0rg&style=flat-square&color=blue">
+</div>
+
 
 <!--
 **Fiz0rg/Fiz0rg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
