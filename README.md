@@ -22,7 +22,10 @@ My contacts
   <img src="https://komarev.com/ghpvc/?username=Fiz0rg&style=flat-square&color=blue">
 </div>
 
-### :woman_technologist: About Me :
+### :man_technologist: AboutMe = {
+  "Some info": "Roma"
+}
+
 
 <!--
 **Fiz0rg/Fiz0rg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
