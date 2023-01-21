@@ -44,7 +44,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/debian/debian-original-wordmark.svg" width="60" heigth="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/debian/debian-original-wordmark.svg" width="50" heigth="50" backgroundcolod='white'/>
 </div>
 <!--
 **Fiz0rg/Fiz0rg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
