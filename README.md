@@ -24,7 +24,7 @@ My contacts
 
 ### :man_technologist: AboutMe = {
   "Some info": "Roma"
-}
+<br>}
 
 
 <!--
