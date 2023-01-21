@@ -16,8 +16,9 @@ My contacts
   <a href="https://t.me/Fiz0rg">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=Blue" alt="Telegram Badge"/>
   </a>
-  
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=Fiz0rg&style=flat-square&color=blue" alt=""/>
 
 <!--
 **Fiz0rg/Fiz0rg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
