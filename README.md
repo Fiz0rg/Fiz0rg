@@ -22,8 +22,12 @@ My contacts
   <img src="https://komarev.com/ghpvc/?username=Fiz0rg&style=flat-square&color=blue">
 </div>
 
+---
+
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Czech Republic.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 <!--
 **Fiz0rg/Fiz0rg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
