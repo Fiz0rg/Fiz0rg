@@ -27,7 +27,7 @@ My contacts
 ### :man_technologist: About Me :
 I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Czech Republic.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Python Developer as backend engineer for building web/mobile applications.
 - :seedling: Exploring Technical Content Writing.
 - 🕕 In my free time, I play guitar, read tech articles, do sport and try to get a little better.
 ---
